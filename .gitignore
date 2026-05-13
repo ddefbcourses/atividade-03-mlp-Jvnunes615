@@ -11,6 +11,7 @@ venv/
 
 # MLflow
 mlruns/
+notebooks/mlflow.db
 
 # OS
 .DS_Store
